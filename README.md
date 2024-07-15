@@ -1,5 +1,5 @@
 # Hi there👋, I am Praveen Kumar
-#### I am a passionate Computer Science student with a keen interest in Data Science🗂️🗂️, Machine Learning and Deep learning🤖🤖.
+#### I am a passionate Computer Science student with a keen interest in Data Science🗂🗂️, Machine Learning and Deep learning🤖.
 #### My journey in tech started with a curiosity for how data can be transformed into actionable insights, and I've been exploring the fascinating world of algorithms and models ever since.🌐🌐.
 #### Go to the repositories column to find amazing projects💛💛
 ## 👨‍💻 Technologies & Tools:
