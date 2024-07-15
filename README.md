@@ -4,8 +4,8 @@
 #### Go to the repositories column to find amazing projects💛💛
 ## 👨‍💻 Technologies & Tools:
 #### Languages: 🐍 Python, 🐬 SQL, 💻 C, ♨️ Java, 🖥️ HTML, 📱 CSS, 🐘 PHP
-#### Tools: 📑 VS Code, 📙 Jupyter Notebook
-#### Frameworks: 🧊 NumPy, 🐼 Pandas, 📊 Matplotlib, 📶 Seaborn, 📈Scikit-Learn
+#### Tools: 📙 Jupyter Notebook, 📑 VS Code
+#### Frameworks: 🧊 NumPy, 🐼 Pandas, 📊 Matplotlib, 📶 Seaborn, 📈 Scikit-Learn, 🌶️ Flask
 ## 🤝 Let's connect:
 #### LinkedIn: [Profile](https://www.linkedin.com/in/spraveenkumar2205)
 #### Mail To: [E-mail](Mailto:spraveenkumar2205@gmail.com)
