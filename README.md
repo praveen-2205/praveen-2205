@@ -7,7 +7,7 @@
 #### Tools: 📑 VS Code, 📙 Jupyter Notebook
 #### Frameworks: 🧊 NumPy, 🐼 Pandas, 📊 Matplotlib, 📶 Seaborn, 📈Scikit-Learn
 ## 🤝 Let's connect:
-#### LinkedIn: [Profile](www.linkedin.com/in/spraveenkumar2205)
+#### LinkedIn: [Profile](https://www.linkedin.com/in/spraveenkumar2205)
 #### Mail To: [E-mail](Mailto:spraveenkumar2205@gmail.com)
 <!--
 **praveen-2205/praveen-2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
