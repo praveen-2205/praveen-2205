@@ -3,9 +3,9 @@
 ### My journey in tech started with a curiosity for how data can be transformed into actionable insights, and I've been exploring the fascinating world of algorithms and models ever since.🌐🌐.
 ### Go to the repositories column to find amazing projects💛💛
 ## 👨‍💻 Technologies & Tools:
-### Languages: 🐍 Python, 🐬 SQL, 💻 C, ♨️ Java, 🖥️ HTML, 📱 CSS, 🐘 PHP
-### Tools: 📙 Jupyter Notebook, 📑 VS Code, 🧩 PyCharm, 𓆙 Anaconda
-### Frameworks: 🧊 NumPy, 🐼 Pandas, 📊 Matplotlib, 📶 Seaborn, 📈 Scikit-Learn, 🌶️ Flask
+### Languages: 🐍 Python, 🐬 SQL, 💻 C, 🖳 C++, ♨️ Java, 🖥️ HTML, 📱 CSS, 🐘 PHP
+### Tools: 📙 Jupyter Notebook, 📑 VS Code, 🧩 PyCharm, 𓆙 Anaconda, 🌐 Postman
+### Frameworks: 🧊 NumPy, 🐼 Pandas, 📊 Matplotlib, 📶 Seaborn, 📈 Scikit-Learn, 🌶️ Flask, 🖼️ OpenCV, 👁️ Mediapipe, 🧠 Tensorflow
 ## 🤝 Let's connect:
 ### LinkedIn: [Profile](https://www.linkedin.com/in/spraveenkumar2205)
 ### Mail To: [E-mail](Mailto:spraveenkumar2205@gmail.com)
