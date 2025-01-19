@@ -5,7 +5,7 @@
 ## 👨‍💻 Technologies & Tools:
 ### Languages: 🐍 Python, 🐬 SQL, 💻 C, 🖳 C++, ♨️ Java, 🖥️ HTML, 📱 CSS, 🐘 PHP
 ### Tools: 📙 Jupyter Notebook, 📑 VS Code, 🧩 PyCharm, 𓆙 Anaconda, 🌐 Postman
-### Frameworks: 🧊 NumPy, 🐼 Pandas, 📊 Matplotlib, 📶 Seaborn, 📈 Scikit-Learn, 🌶️ Flask, 🖼️ OpenCV, 👁️ Mediapipe, 🧠 Tensorflow
+### Frameworks: 🧊 NumPy, 🐼 Pandas, 📊 Matplotlib, 📶 Seaborn, 📈 Scikit-Learn, 🌶️ Flask, 🖼️ OpenCV, 👁️ Mediapipe, 🧠 Tensorflow, 📚 Natural Language Toolkit(NLTK), 🪐 Spacy, 🟧 Dialogflow
 ## 🤝 Let's connect:
 ### LinkedIn: [Profile](https://www.linkedin.com/in/spraveenkumar2205)
 ### Mail To: [E-mail](Mailto:spraveenkumar2205@gmail.com)
