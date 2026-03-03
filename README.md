@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science and Engineering student** specializing in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**. My journey began with curiosity about transforming data into actionable insights, and has evolved into building sophisticated AI systems—from multi-agent RAG architectures to deep reinforcement learning models.
+I'm a passionate **Computer Science and Engineering student** specializing in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**. My journey began with curiosity about transforming data into actionable insights, and has evolved into building sophisticated AI systems, from multi-agent RAG architectures to deep reinforcement learning models.
 
 - 🔭 Currently working on **LLM-powered multi-agent systems** and **AI automation**
 - 🌱 Exploring **Explainable AI (XAI)** and **GraphRAG** architectures
