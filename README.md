@@ -146,20 +146,6 @@ Built enterprise-grade AI systems:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-2205&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-2205&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveen-2205&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Indian Institute of Information Technology Kottayam**  
